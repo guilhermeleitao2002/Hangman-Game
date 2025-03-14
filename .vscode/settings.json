@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "time.h": "c",
-        "stdio.h": "c",
-        "fcntl.h": "c",
-        "errno.h": "c"
-    }
-}
